@@ -10,3 +10,4 @@ build/
 # created by virtualenv automatically
 .idea/
 .DS_Store
+.venv/
